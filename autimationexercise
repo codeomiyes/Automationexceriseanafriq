@@ -74,7 +74,7 @@ tops_link = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH
 # Click on the "Tops" link
 tops_link.click()
 
-# Wait for the page to load
+
 time.sleep(5)
 
 
