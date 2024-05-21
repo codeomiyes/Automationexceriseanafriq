@@ -153,5 +153,5 @@ pay_and_confirm_button.click()
 
 time.sleep(30)
 
-# Close the browser after the task is complete
+
 driver.quit()
